@@ -1,0 +1,17 @@
+{
+  "qa": {
+    "apiUrl": "https://api-qa.yourapp.com",
+    "authUrl": "https://auth-qa.yourapp.com",
+    "cdnUrl": "https://cdn-qa.yourapp.com"
+  },
+  "test": {
+    "apiUrl": "https://api-test.yourapp.com",
+    "authUrl": "https://auth-test.yourapp.com",
+    "cdnUrl": "https://cdn-test.yourapp.com"
+  },
+  "prod": {
+    "apiUrl": "https://api.yourapp.com",
+    "authUrl": "https://auth.yourapp.com",
+    "cdnUrl": "https://cdn.yourapp.com"
+  }
+}
